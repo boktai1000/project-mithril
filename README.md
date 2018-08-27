@@ -1,1 +1,1 @@
-# project-mithril
+# Project Mithril
