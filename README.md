@@ -10,7 +10,7 @@
 
 ### Turn_Off_AutoPlay.reg
 * What it does
-  * Personally I don't trust Windows to do the right thing with Autoplay. I'd prefer to manually browse the contents and run anything as needed.
+  * Personally I don't trust Windows to do the right thing with Autoplay. I'd prefer to manually browse the contents and run anything as needed. I also don't want someone to insert a USB drive without my permission and have it AutoPlay.
 * Local Policy (Alternative to Registry)
   * Can be set as a Local Policy following this guide from HowToGeek http://www.howtogeek.com/236241/how-to-enable-disable-and-customize-autoplay-in-windows-10/ 
 * Sources
