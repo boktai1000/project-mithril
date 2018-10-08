@@ -13,7 +13,8 @@
   * Personally I don't trust Windows to do the right thing with Autoplay. I'd prefer to manually browse the contents and run anything as needed.
 * Local Policy (Alternative to Registry)
   * Can be set as a Local Policy following this guide from HowToGeek http://www.howtogeek.com/236241/how-to-enable-disable-and-customize-autoplay-in-windows-10/ 
-* Registry Tweak from TenForums http://www.tenforums.com/tutorials/7119-autoplay-turn-off-windows-10-a.html
+* Sources
+  * Registry Tweak from TenForums http://www.tenforums.com/tutorials/7119-autoplay-turn-off-windows-10-a.html
 
 ### UAC_Always_Notify.reg
 * Advice from SwiftOnSecurity on Twitter https://decentsecurity.com/#/securing-your-computer/ 
