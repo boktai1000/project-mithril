@@ -1,9 +1,12 @@
 # Windows
 
 ### disable_win10_foistware.reg
-* Advice from Will Dormann on Twitter https://twitter.com/wdormann/status/947918699754868736 
-* Original Gist link https://gist.github.com/wdormann/49f1807431b0d5b5cd151337e6478f20
-* All credit to Will Dormann with this find, this is a just a copy of the same registry tweak copied over here.
+* What does it do / solve?
+  * This tweak needs to be applied before a fresh install of Windows receives an Internet connection, and will prevent the Windows Store from installing apps such as Candy Crush Saga, etc.
+* Sources
+  * Advice from Will Dormann on Twitter https://twitter.com/wdormann/status/947918699754868736 
+  * Original Gist link https://gist.github.com/wdormann/49f1807431b0d5b5cd151337e6478f20
+  * All credit to Will Dormann with this find, this is a just a copy of the same registry tweak copied over here.
 
 ### Turn_Off_AutoPlay.reg
 * Personally I don't trust Windows to do the right thing with Autoplay.
