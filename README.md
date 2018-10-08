@@ -1,7 +1,7 @@
 # Windows
 
 ### disable_win10_foistware.reg
-* What does it do / solve?
+* What it does
   * This tweak needs to be applied before a fresh install of Windows receives an Internet connection, and will prevent the Windows Store from installing apps such as Candy Crush Saga, etc.
 * Sources
   * Advice from Will Dormann on Twitter https://twitter.com/wdormann/status/947918699754868736 
@@ -9,9 +9,10 @@
   * All credit to Will Dormann with this find, this is a just a copy of the same registry tweak copied over here.
 
 ### Turn_Off_AutoPlay.reg
-* Personally I don't trust Windows to do the right thing with Autoplay.
-* I'd prefer to manually browse the contents and run anything as needed.
-* Can be set as a Local Policy following this guide from HowToGeek http://www.howtogeek.com/236241/how-to-enable-disable-and-customize-autoplay-in-windows-10/ 
+* What it does
+  * Personally I don't trust Windows to do the right thing with Autoplay. I'd prefer to manually browse the contents and run anything as needed.
+* Local Policy (Alternative to Registry)
+  * Can be set as a Local Policy following this guide from HowToGeek http://www.howtogeek.com/236241/how-to-enable-disable-and-customize-autoplay-in-windows-10/ 
 * Registry Tweak from TenForums http://www.tenforums.com/tutorials/7119-autoplay-turn-off-windows-10-a.html
 
 ### UAC_Always_Notify.reg
