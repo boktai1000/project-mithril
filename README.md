@@ -32,5 +32,10 @@
 * Instead of adjusting the High Performance default plan with settings such as Never let Hard Disk sleep and disabling Hibernate, just use the Ultimate Performance plan which solves these things.
 * Registry Tweak from TenForums https://www.tenforums.com/tutorials/91744-specify-default-active-power-plan-windows-10-a.html 
 
+### Disable_Automatic_sign-in_after_Windows_Update_reestart.reg
+* Requires Windows 10 build 17093 and above
+* Prevents apps like Firefox, Chrome, etc from relaunching after a reboot
+* Registry Tweak from TenForums https://www.tenforums.com/tutorials/49963-use-sign-info-auto-finish-after-update-restart-windows-10-a.html#option4 
+
 
 # Linux
