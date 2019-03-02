@@ -1,5 +1,17 @@
 # Windows
 
+## Creating a secure USB Drive for installation
+
+### Format / Clear USB Drive using Powershell (no third party utilities)
+
+* Note: These commands assume that X is the disk you want to clear
+`Clear-Disk -Number X -RemoveData`
+
+`Get-Disk X | Clear-Disk -RemoveData`
+
+
+## Registry Tweaks
+
 ### disable_win10_foistware.reg
 * What it does
   * This tweak needs to be applied before a fresh install of Windows receives an Internet connection, and will prevent the Windows Store from installing apps such as Candy Crush Saga, etc.
