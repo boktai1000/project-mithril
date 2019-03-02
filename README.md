@@ -11,6 +11,7 @@
 * Clear USB Drive after determining disk number
   * Note: These commands assume that X is the disk you want to clear
 
+Either command option will result in the same result, two different methods listed below
 
 `Clear-Disk -Number X -RemoveData`
 
