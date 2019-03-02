@@ -1,6 +1,6 @@
 # Windows
 
-## Creating a secure USB Drive for installation
+## Pre-Installation - Creating a secure USB Drive for installation
 
 ### Format / Clear USB Drive using Powershell (no third party utilities)
 
@@ -17,8 +17,14 @@ Either command will bring the same result, but two variations are listed below t
 
 `Get-Disk X | Clear-Disk -RemoveData`
 
+### Install Windows to your USB Drive
 
-## Registry Tweaks
+* Reference the follow links for installation instructions depending on how you need to install Windows.
+  * https://www.tenforums.com/tutorials/2376-create-bootable-usb-flash-drive-install-windows-10-a.html
+  * https://decentsecurity.com/#/securing-your-computer/
+
+
+## Post-Installation - Registry Tweaks
 
 ### disable_win10_foistware.reg
 * What it does
