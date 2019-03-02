@@ -5,6 +5,7 @@
 ### Format / Clear USB Drive using Powershell (no third party utilities)
 
 * Note: These commands assume that X is the disk you want to clear
+
 `Clear-Disk -Number X -RemoveData`
 
 `Get-Disk X | Clear-Disk -RemoveData`
