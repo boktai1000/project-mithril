@@ -1,6 +1,8 @@
 Windows Registry Editor Version 5.00
 
 # https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware-winpc/display-off-takes-all-audio-with-it-in-windows-10/98d4f468-e4de-4701-8502-f58c7354fccd
+# https://www.ghacks.net/2016/09/13/play-music-on-a-surface-while-the-screen-is-off/
+# https://superuser.com/questions/1208698/how-to-stop-windows-10-muting-audio-playback-when-screen-turns-off
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
 "CSEnabled"=dword:00000000
