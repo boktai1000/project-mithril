@@ -1,4 +1,6 @@
 Windows Registry Editor Version 5.00
 
+# https://answers.microsoft.com/en-us/windows/forum/windows_10-hardware-winpc/display-off-takes-all-audio-with-it-in-windows-10/98d4f468-e4de-4701-8502-f58c7354fccd
+
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
 "CSEnabled"=dword:00000000
